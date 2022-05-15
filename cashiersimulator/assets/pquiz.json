@@ -1,0 +1,96 @@
+[
+    {
+        "0": "What Will Be The Code For Bananas?",
+        "1": "What Will Be The Code For Pears",
+        "2": "What Will Be The Code For Limes",
+        "3": "What Will Be The Code For Onions (Green Scallions)",
+        "4": "What Will Be The Code For Squash (Yellow)",
+        "5": "What Will Be The Code For Cucumbers",
+        "6": "What Will Be The Code For Lemons",
+        "7": "What Will Be The Code For Carrots (Single)",
+        "8": "What Will Be The Code For Jalapenos",
+        "9": "What Will Be The Code For Broccoli",
+        "10": "What Will Be The Code For Oranges"
+    },
+    {
+        "0": {
+            "a": "4076",
+            "b": "4011",
+            "c": "4562",
+            "d": "4093"
+        },
+        "1": {
+            "a": "4417",
+            "b": "4036",
+            "c": "4069",
+            "d": "4788"
+        },
+        "2": {
+            "a": "3107",
+            "b": "4306",
+            "c": "4064",
+            "d": "4062"
+        },
+        "3": {
+            "a": "3107",
+            "b": "4417",
+            "c": "4562",
+            "d": "4068"
+        },
+        "4": {
+            "a": "4086",
+            "b": "4089",
+            "c": "4306",
+            "d": "4033"
+        },
+        "5": {
+            "a": "4306",
+            "b": "4093",
+            "c": "4062",
+            "d": "4552"
+        },
+        "6": {
+            "a": "4073",
+            "b": "4033",
+            "c": "4089",
+            "d": "3107"
+        },
+        "7": {
+            "a": "4069",
+            "b": "4788",
+            "c": "4562",
+            "d": "4064"
+        },
+        "8": {
+            "a": "4552",
+            "b": "4064",
+            "c": "4693",
+            "d": "4306"
+        },
+        "9": {
+            "a": "4062",
+            "b": "4069",
+            "c": "4552",
+            "d": "4060"
+        },
+        "10": {
+            "a": "4076",
+            "b": "4562",
+            "c": "4093",
+            "d": "3107"
+        }
+    },
+    {
+        "0": "4011",
+        "1": "4417",
+        "2": "4306",
+        "3": "4068",
+        "4": "4086",
+        "5": "4062",
+        "6": "4033",
+        "7": "4562",
+        "8": "4693",
+        "9": "4060",
+        "10": "3107"
+    }
+]

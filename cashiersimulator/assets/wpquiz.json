@@ -1,0 +1,99 @@
+[
+    {
+        "0": "How to sign on?",
+        "1": "How to sign off?",
+        "2": "For check payments, Enter the amount written on check before hitting the 'check' key.",
+        "3": "How to secure my terminal?",
+        "4": "To void last item I just need to hit 'Void' key?",
+        "5": "What ink do you use for WIC?",
+        "6": "What must you do after scanning the WIC check and writing the money down?\n Customer must sign it ______ writing the money down.",
+        "7": "For cash payments, Enter the amount given by customer... ",
+        "8": "How to unsecure my terminal?",
+        "9": "Opening time",
+        "10": "What is a CVV Voucher? (WIC)\n A voucher that has a specifict amount of money that can be used to buy____ items only."
+
+    },
+    {
+        "0": {
+            "a": "Cashier #, slash (/), password, hit S/O key.",
+            "b": "S/O key, Cashier #, slash (/), password",
+            "c": "None of the above",
+            "d": "All of the above"
+        },
+        "1": {
+            "a": "Hit S/O key once.",
+            "b": "Hit S/O key twice.",
+            "c": "None of the above",
+            "d": "All of the above"
+        },
+        "2": {
+            "a": "True",
+            "b": "False",
+            "c": "None of the above",
+            "d": "Somewhat true"
+        },
+        "3": {
+            "a": "'No Sale key', then S/O key.",
+            "b": "S/O key, then 'No Sale' key.",
+            "c": "None of the above",
+            "d": "All of the above"
+        },
+        "4": {
+            "a": "True",
+            "b": "False",
+            "c": "None of the above",
+            "d": "All of the above"
+        },
+        "5": {
+            "a": "Blue",
+            "b": "Black",
+            "c": "Red",
+            "d": "All of the above"
+        },
+        "6": {
+            "a": "Before or after ",
+            "b": "Before",
+            "c": "After",
+            "d": "None of the above"
+        },
+        "7": {
+            "a": "after hitting 'cash' key",
+            "b": "before hitting 'cash' key",
+            "c": "None of the above",
+            "d": "All of the above"
+        },
+        "8": {
+            "a": "S/O key, Password",
+            "b": "Password, S/O key.",
+            "c": "After",
+            "d": "None of the above"
+        },
+        "9": {
+            "a": "6:00AM",
+            "b": "7:00AM",
+            "c": "8:00AM",
+            "d": "None of the above"
+        },
+        "10": {
+            "a": "Before or after ",
+            "b": "Before",
+            "c": "After",
+            "d": "None of the above"
+        }
+        
+    },
+    {
+        "0": "Cashier #, slash (/), password, then hit S/O key.",
+        "1": "Hit S/O key twice.",
+        "2": "True",
+        "3": "'No Sale key', then S/O key.",
+        "4": "False",
+        "5": "Black",
+        "6": "After",
+        "7": "before hitting 'cash' key",
+        "8": "Password, S/O key.",
+        "9": "6:00AM",
+        "10": "produce"
+       
+    }
+]
